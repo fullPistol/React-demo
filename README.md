@@ -1,3 +1,3 @@
 # React-app
-first react project
+用webpack + react 的app
 还在进行中...
